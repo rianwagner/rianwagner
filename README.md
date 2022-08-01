@@ -1,0 +1,3 @@
+- 👋 @rianwagner
+- 👀 Sou estudante de Ciência da Computação na UFSJ
+- 🌱 Apaixonado por desenvolvimento e soluções inovadoras
