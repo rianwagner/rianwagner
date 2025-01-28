@@ -1,5 +1,4 @@
 ## Olá! Eu sou Rian Wagner
-- 💻 Estudando Python
 - 🌱 Graduando em Ciência da Computação - UFSJ
 - 📫 Contate-me no email: rianwagner80@gmail.com
   
